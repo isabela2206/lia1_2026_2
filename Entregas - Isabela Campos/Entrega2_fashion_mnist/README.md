@@ -41,7 +41,7 @@ Todas as dependências (TensorFlow, NumPy, Matplotlib) já vêm pré-instaladas 
 Para dispensar o upload manual, execute a célula abaixo **antes** da Seção 8. Ela baixa direto para `/content/roupa.jpg` a imagem versionada nesta pasta, que é exatamente a mesma utilizada no desenvolvimento:
 
 ```python
-!wget -q -O /content/roupa.jpg https://raw.githubusercontent.com/isabela2206/lia1_2026_2/main/Entregas%20-%20Isabela%20Campos/aula-09-fashion-mnist/imagens/roupa.jpg
+!wget -q -O /content/roupa.jpg https://raw.githubusercontent.com/isabela2206/lia1_2026_2/main/Entregas%20-%20Isabela%20Campos/Entrega2_fasion_mnist/roupa.jpg
 
 # Conferir o download
 from IPython.display import Image
